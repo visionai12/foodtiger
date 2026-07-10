@@ -1,0 +1,8 @@
+{
+  "name": "Food Tiger",
+  "description": "A sleek and minimal static landing page for Food Tiger, a premium speed-focused food delivery service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
